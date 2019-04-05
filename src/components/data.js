@@ -1,6 +1,6 @@
 const SampleData = [
     {   
-            heading: "M",
+            heading: "Environment",
             categories: [
                 {
                     Subheading1: "Apple",
@@ -11,23 +11,24 @@ const SampleData = [
     },
     {
 
-            heading: "A",
+            heading: "Production",
             categories: [
                 {
-                    Subheading1: "Rock",
-                    Subheading2: "Classical",
-                    Subheading3: "Pop"
+                    Subheading1: "Development",
+                    Subheading2: "SIT",
+                    Subheading3: "Production"
                 }
             ]
     },
     {
 
-            heading: "G",
+            heading: "Department",
             categories: [
                 {
-                    Subheading1: "action",
-                    Subheading2: "comedy",
-                    Subheading3: "drama"
+                    Subheading1: "NAB ONE",
+                    Subheading2: "NAB Connect",
+                    Subheading3: "Internet Banking",
+                    Subheading4: "Internet Banking"
                 }
             ]
 

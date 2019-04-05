@@ -4,7 +4,12 @@ import Filter from './components/filter'
 
 const App = props => {
   return(
-    <Filter/>
+    <>
+    
+    
+      <Filter/>
+
+    </>
   )
 }
 
