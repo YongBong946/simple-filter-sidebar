@@ -22,18 +22,8 @@ const Filter = props => {
                             <>
                                 <Ui.FilterOption>
                                     <input type="checkbox" />
-                                    {subcategories.Subheading1}
-                                </Ui.FilterOption>
-                                
-                                <Ui.FilterOption>
-                                    <input type="checkbox" />
-                                {subcategories.Subheading2}
-                                </Ui.FilterOption>
-                               
-                                <Ui.FilterOption>
-                                    <input type="checkbox" />
-                                    {subcategories.Subheading3}
-                                </Ui.FilterOption>
+                                    {subcategories}
+                                </Ui.FilterOption> 
                             </>
                         )
                     })
